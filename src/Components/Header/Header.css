@@ -1,0 +1,18 @@
+header {
+    background-color: #024cba;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-city-button {
+    background-color: #024cba;
+    border: none;
+    border-radius: 2px;
+    margin-left: 20px;
+    height: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: white;
+}
